@@ -26,3 +26,9 @@ export default function App() {
 export default function Home() {
   return <h1>⚡ Next.js for the Win!</h1>;
 }
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mtiennnn&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtiennnn&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mtiennnn&theme=tokyonight)
