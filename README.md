@@ -1,34 +1,25 @@
-# 👋 Hi there, I'm Tien! 🚀
+<!-- Profile Header -->
+<h1 align="center">👋 Hi there, I'm Tien! 🚀</h1>
+<p align="center">
+  <em>Passionate about building modern, fast, and beautiful web applications 💻✨</em>
+</p>
 
-Welcome to my GitHub profile!  
-I’m passionate about building modern, fast, and beautiful web applications 💻✨
+---
+
+## 🏆 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
+
+### 🌐 HTML
 ```html
 <!-- HTML -->
 <div>HTML5 - Structuring the web</div>
-/* CSS */
-body {
-  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
-  font-family: 'Poppins', sans-serif;
-}
-// JavaScript
-console.log("Hello World 🌎");
-// ReactJS
-import React from 'react';
-
-export default function App() {
-  return <h1>🚀 React is Awesome!</h1>;
-}
-// NextJS
-export default function Home() {
-  return <h1>⚡ Next.js for the Win!</h1>;
-}
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mtiennnn&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtiennnn&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mtiennnn&theme=tokyonight)
