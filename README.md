@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Tien! 🚀
+# 👋 Hi there, I'm Minh Tien! 🚀
 
 <p align="center">
   <em>Passionate about building modern, fast, and beautiful web applications 💻✨</em>
@@ -76,11 +76,15 @@ export default function Home() {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mtiennnn&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mtiennnn&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mtiennnn&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -136,7 +140,7 @@ TypeScript   ████████████░░░░░░░░░░�
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mtiennnn&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
